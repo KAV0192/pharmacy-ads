@@ -1,0 +1,16 @@
+{
+  "active": true,
+  "title": "Здесь может быть реклама",
+  "subtitle": "Тестовый баннер",
+  "clickUrl": "https://example.com",
+  "expiresAtMillis": null,
+  "content": {
+    "kind": "slideshow",
+    "imageUrls": [
+      "https://kav0192.github.io/pharmacy-ads/ad1.png",
+      "https://kav0192.github.io/pharmacy-ads/ad2.png",
+      "https://kav0192.github.io/pharmacy-ads/ad3.png"
+    ],
+    "intervalMillis": 2500
+  }
+}
