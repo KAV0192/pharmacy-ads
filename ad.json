@@ -12,5 +12,11 @@
       "https://kav0192.github.io/pharmacy-ads/ad3.png"
     ],
     "intervalMillis": 2500
+  },
+  "interstitial": {
+    "active": true,
+    "imageUrl": "https://kav0192.github.io/pharmacy-ads/popup.png",
+    "clickUrl": "https://example.com",
+    "expiresAtMillis": null
   }
 }
